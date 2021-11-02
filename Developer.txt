@@ -1,1 +1,2 @@
-Resolving issue done by Arjun
+Resolving issue #2
+    - Arjun
